@@ -7,3 +7,7 @@ A random image
 A random image 2, edited online
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Liuzhou_Liyuzui_Yizhi_2014.03.03_12-23-28.jpg/1024px-Liuzhou_Liyuzui_Yizhi_2014.03.03_12-23-28.jpg" alt="Internet image" title="Internet image" style="float:center;width:320px;height:213px;margin-right:10px;"/>
+
+Picture 3
+
+<img src="ai_img.jpg" alt="ghb" width="300" height="300">
